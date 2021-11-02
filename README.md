@@ -30,5 +30,5 @@ This is my MuleSoft Coding Problem's Solution
 4) Inserting data into Movies table from a Java (any language) program - Insertion code in InsertingRecords.java
 
 5) Querying data from Movies table with or without parameters  
-	5.1 after having the movies data in the table, you need to query the movie details (name, actor, actress, director, year of release) using a SELECT statement - code present in DisplayingALLRecords.java
+	5.1 after having the movies data in the table, you need to query the movie details (name, actor, actress, director, year of release) using a SELECT statement - code present in DisplayingALLRecords.java <br>
 	5.2 You will need to write a program to issue a simple SELECT statement to query all rows from the Movies table, as well as use a query with parameter like actor name to select movies based on the actor's name - code present in DisplayRecordByActorName.java
